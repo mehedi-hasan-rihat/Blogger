@@ -19,4 +19,4 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
 
 ## Deploy on Vercel
-[Live Link]([https://nextjs.org/docs/app/building-your-application/deploying](https://blogger-mu-amber.vercel.app/)
+[Live Link](https://blogger-mu-amber.vercel.app/)
