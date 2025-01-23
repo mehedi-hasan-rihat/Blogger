@@ -15,7 +15,7 @@ export default async function Navbar() {
     <nav className="sticky top-0 bg-white text-black py-3">
       <div className="flex justify-between items-center md:max-w-3xl lg:max-w-[1400px] xl:max-w-[1600px] mx-auto">
         {" "}
-        <h4 className="text-[20px] font-semibold font-mono">Bloger</h4>
+        <h4 className="text-[20px] font-semibold font-mono">Blogger</h4>
         <div className="">
           <div className="">
             <ul className="flex items-center gap-5 text-[17px]">
